@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.checkstyle.configuration": "${workspaceFolder}/app/src/test/java/qtriptest/testng.xml"
+}
